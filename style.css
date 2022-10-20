@@ -1,0 +1,32 @@
+
+
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+.title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    background: linear-gradient(90deg, rgba(51, 0, 255, 0) 90.88%, #1464DB 90.88%), radial-gradient(45.49% 1398.97% at 39.75% 50%, #FFB800 0%, #DB1414 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+width: 180px;
+    /* background: linear-gradient(90deg, rgba(51, 0, 255, 0) 90.88%, #1464DB 90.88%), radial-gradient(45.49% 1398.97% at 39.75% 50%, #FFB800 0%, #DB1414 100%); */
+    text-align: center;
+}
+
+p{
+    font-size: 16px;
+}
+.box{
+    background: red;
+    width: 200px;
+    height: 60px;
+    margin: 0 auto;
+}
